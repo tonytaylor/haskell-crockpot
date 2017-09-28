@@ -1,0 +1,4 @@
+
+lazy-file-input
+
+haskell is crazy powerful!!

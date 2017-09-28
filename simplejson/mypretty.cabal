@@ -1,0 +1,9 @@
+
+Name:		mypretty
+Version:	0.1
+Cabal-Version: >= 1.2
+library
+  Exposed-Modules: Prettify
+                   PrettyJSON
+                   SimpleJSON
+  Build-Depends:   base >= 2.0
